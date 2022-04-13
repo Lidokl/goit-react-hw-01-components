@@ -1,11 +1,13 @@
 .title {
   text-align: center;
+  margin: 30px;
 }
 
 .statList {
+  display: flex;
   list-style: none;
   margin-top: 30px;
-  display: flex;
+
   align-items: center;
   justify-content: center;
 }

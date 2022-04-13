@@ -15,9 +15,7 @@ export const App = () => {
           avatar={user.avatar}
           stats={user.stats}
         />
-      </div>
 
-      <div className={data.App}>
         <Statistics title="Upload stats" stats={data} />
         {/* <Statistics stats={data} /> */}
       </div>
