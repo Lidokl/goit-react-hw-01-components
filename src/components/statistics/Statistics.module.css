@@ -1,19 +1,19 @@
-.title {
+/* .title {
   text-align: center;
   margin: 30px;
-}
+  color: rgb(156, 137, 137);
+} */
 
 .statList {
   display: flex;
   list-style: none;
-  margin-top: 30px;
+  margin: 40px;
 
   align-items: center;
   justify-content: center;
 }
 .statListItem {
   padding: 10px;
-  background-color: grey;
   width: 60px;
   height: 60px;
 }

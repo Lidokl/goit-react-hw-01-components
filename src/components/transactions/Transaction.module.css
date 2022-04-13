@@ -1,0 +1,24 @@
+.table {
+  width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+.tableHead {
+  height: 40px;
+  background-color: rgba(33, 33, 231, 0.409);
+}
+.string {
+  height: 40px;
+}
+.tbody:nth-child(2n + 1) {
+  background-color: #ccc;
+}
+.type {
+  text-align: center;
+}
+.amount {
+  text-align: center;
+}
+.currency {
+  text-align: center;
+}
